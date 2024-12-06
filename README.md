@@ -81,32 +81,39 @@ El proyecto navideño que se propone integra diversas tecnologías de Internet d
 ### 📜 Certificaciones
 - Certificado JavaScript NetAcad
   - Capítulo 1
-    ![image](https://github.com/user-attachments/assets/698c7110-d1dd-4da7-a0da-9d75405301af)
+    ![image](https://github.com/user-attachments/assets/f455952f-e154-40e3-a1d2-aeea8f7f0c8c)
+
   - Capítulo 2
-    ![image](https://github.com/user-attachments/assets/a52db099-6d6a-4d1d-af59-4c04731553be)
+    ![image](https://github.com/user-attachments/assets/e12e8f0b-5062-4c15-a154-62398ceb85f4)
+
   - Capítulo 3
-    ![image](https://github.com/user-attachments/assets/c5dddfca-f713-4f7d-8d9d-401840949b3e)
+    ![image](https://github.com/user-attachments/assets/2bda16ff-0314-4a96-960a-463ac9a167d5)
+
   - Capítulo 4
-    ![image](https://github.com/user-attachments/assets/d1b1baed-a243-43d8-890a-e5c09a56c7a8)
+    ![image](https://github.com/user-attachments/assets/e83152a5-16dc-43d2-9030-2908493a7a9c)
+
   - Capítulo 5
-    ![image](https://github.com/user-attachments/assets/ca6cae0b-bd74-4ea4-a50b-3e237bcb0567)
+    ![image](https://github.com/user-attachments/assets/eb5cd3b4-44ce-4b84-8c68-f186cf24a723)
+
   - Capítulo 6
-    ![image](https://github.com/user-attachments/assets/390ff04c-3e03-46a8-aa39-38576e97aed9)
+    ![image](https://github.com/user-attachments/assets/c3c1227f-7654-4694-b711-97922215c8f7)
+
   - Examen final
-    ![image](https://github.com/user-attachments/assets/f88c7eb3-c71c-4ff6-a55f-720589603c28)
+    ![image](https://github.com/user-attachments/assets/f1780e0d-5894-45c0-961b-060cf9a76387)
+
 
 ## Demostración
 El proyecto estará en exhibición durante 3 días en el área de TI, demostrando todas las funcionalidades mencionadas.
 
 ## Coevaluación
 
-### Retroalimentación sobre el trabajo de un compañero: Carlos Samael Aguayo Santana
+### Retroalimentación sobre el trabajo de un compañero: Juan Diego Pardo Zamarripa
 
-- **Aspectos positivos**:Samael destaca por su profundo conocimiento en lenguajes como MicroPython y Arduino. Su habilidad para manejar conexiones y cableado de dispositivos es notable, lo que ha sido un gran aporte para el proyecto.
+- **Aspectos positivos**: Juan es un buen compañero, es bastante dedicado en lo que se le asigna para llegar a completar el proyecto, sus habilidades de investigacion son destacables, tiene buena disposicion en hacer reuniones y no muestra problemas pese al tiempo.
   
-- **Áreas de mejora**:Una posible área de mejora para Carlos es la organización y el trabajo en equipo. Sería beneficioso que desarrollara una mayor conciencia sobre el esfuerzo colectivo y la importancia de la colaboración continua con sus compañeros.
+- **Áreas de mejora**:Debe mejorar sus habilidades de diseñar y elaborar una maqueta de un personaje, pese a que el dijo que iba a lograr un mejor trabajo,pero le falto  detalle y debe ser mas respetuoso.
 
-- **Aspectos negativos**: Un aspecto negativo es su disposición para colaborar en el trabajo en equipo. Carlos tiende a concentrar su trabajo cerca de las fechas de entrega, lo que puede afectar la dinámica del equipo y la planificación del proyecto.
+- **Aspectos negativos**: De las cosas que afectaron durante el trabajo en equipo fue su falta de compromiso, ya que al inicio nos repartimos las tareas y el decidio elegir elaborar el diseño de la maqueta y la implementacion de las conexiones fisicas, mas sin embargo al final solo coopero poco en la parte de conexiones.
 ---
 
 Desarrollado para la materia Principios de IoT
